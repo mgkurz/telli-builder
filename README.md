@@ -10,14 +10,14 @@ Der Skill enthält **Pflichtbausteine gegen Schwätzigkeit**: kurze Knappheitsre
 
 Ein Skill ist ein Erweiterungspaket für [Claude](https://claude.ai), das Claude für eine bestimmte Aufgabe Experten-Wissen mitgibt. Man lädt die Skill-Datei einmalig hoch, und ab dann erkennt Claude automatisch, wenn eine telli-Konfiguration erstellt werden soll, und arbeitet nach den hier definierten Regeln.
 
-Skills sind ein Feature der bezahlten Claude-Accounts (Pro, Team, Enterprise).
+Skills funktionieren in allen Claude-Tarifen inklusive dem kostenlosen Free-Plan. Voraussetzung ist lediglich, dass **Code-Ausführung** in den Claude-Einstellungen aktiviert ist (Einstellungen → Fähigkeiten → Code-Ausführung).
 
 ## Für wen ist das?
 
 Lehrkräfte, die:
 
 * telli an ihrer Schule nutzen (aktuell Baden-Württemberg, Bayern, Brandenburg, Bremen, Hessen, Niedersachsen, NRW, Saarland, Schleswig-Holstein, Thüringen; weitere Länder folgen),
-* einen Claude-Pro-Account oder höher haben,
+* einen Claude-Account haben (Free-Plan genügt),
 * und regelmäßig telli-Konfigurationen erstellen.
 
 Wer keinen Claude-Zugang hat, kann alternativ den webbasierten [telli-Konfigurator](https://mgkurz.github.io/telli-konfig/) nutzen. Dieser funktioniert mit allen gängigen KIs und braucht keine Installation.
